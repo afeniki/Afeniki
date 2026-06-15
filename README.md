@@ -54,5 +54,5 @@ Conducted competitive benchmarking across 3 market segments to evaluate pricing 
 If you're looking for a data analyst who can own a problem end-to-end — from raw data to boardroom-ready insight — I'd love to talk.
 
 - 📧 **Email:** [ayoola.sinmiloluwa@gmail.com]
--  💼 **LinkedIn:** [[Add your LinkedIn here](https://www.linkedin.com/feed/)]
+-  💼 **LinkedIn:** [(https://www.linkedin.com/feed/)]
 

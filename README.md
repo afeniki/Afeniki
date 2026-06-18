@@ -25,8 +25,7 @@ I care deeply about making data understandable, not just accurate, because insig
 
 ## 📂 Featured Projects
 
-### 📊 Sales Pipeline & Revenue Operations Analysis
-[Sales Pipeline & Revenue Operations Analysis](https://github.com/afeniki/Sales-Pipeline-Analysis)
+### 📊 [Sales Pipeline & Revenue Operations Analysis](https://github.com/afeniki/Sales-Pipeline-Analysis)
 
 
 > **Tools:** SQL · Power BI · Excel · DAX

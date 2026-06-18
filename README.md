@@ -25,6 +25,19 @@ I care deeply about making data understandable, not just accurate, because insig
 
 ## 📂 Featured Projects
 
+### 📊 Sales Pipeline & Revenue Operations Analysis
+[Sales Pipeline & Revenue Operations Analysis](https://github.com/afeniki/Sales-Pipeline-Analysis)
+
+
+> **Tools:** SQL · Power BI · Excel · DAX
+
+
+
+End-to-end revenue operations analysis of 10,000+ transactions across 2020–2023. Tracked pipeline velocity, discount impact on profitability, order volume trends, and average order value across segments — delivering insights directly relevant to sales strategy and territory planning.
+
+Key outcomes: Identified Q4 as peak revenue quarter, accounting for the highest close rates · Quantified that 30%+ discount deals generate negative average profit — flagged as critical pricing risk · AOV stable at $459 despite exponential order volume growth · Delivered 5 actionable recommendations for pricing governance and sales capacity planning
+
+
 ### 📉 [Customer Churn Analysis – Telecom Company](https://github.com/afeniki/Customer-Churn-Analysis-for-Telecom-Company)
 > **Tools:** Excel · Pivot Tables · Dashboard · Data Storytelling
 
@@ -32,17 +45,6 @@ Explored customer churn patterns in a telecom company to identify *who* churns, 
 
 **Key outcomes:** Month-to-month contract holders flagged as highest churn risk · Early-stage customers (0–6 months) identified as most vulnerable · Low engagement with value-added services surfaced as a leading churn signal · Delivered targeted retention strategy recommendations
 ---
-
-📊 Sales Pipeline & Revenue Operations Analysis
-
-
-Tools: SQL · Power BI · Excel · DAX
-
-
-
-End-to-end revenue operations analysis of 10,000+ transactions across 2020–2023. Tracked pipeline velocity, discount impact on profitability, order volume trends, and average order value across segments — delivering insights directly relevant to sales strategy and territory planning.
-
-Key outcomes: Identified Q4 as peak revenue quarter, accounting for the highest close rates · Quantified that 30%+ discount deals generate negative average profit — flagged as critical pricing risk · AOV stable at $459 despite exponential order volume growth · Delivered 5 actionable recommendations for pricing governance and sales capacity planning
 
 ## 📈 What I'm Currently Working On
 

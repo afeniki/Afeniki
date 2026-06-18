@@ -32,9 +32,9 @@ I care deeply about making data understandable, not just accurate, because insig
 
 
 
-End-to-end revenue operations analysis of 10,000+ transactions across 2020–2023. Tracked pipeline velocity, discount impact on profitability, order volume trends, and average order value across segments — delivering insights directly relevant to sales strategy and territory planning.
+End-to-end revenue operations analysis of 10,000+ transactions across 2020–2023. Tracked pipeline velocity, discount impact on profitability, order volume trends, and average order value across segments, delivering insights directly relevant to sales strategy and territory planning.
 
-Key outcomes: Identified Q4 as peak revenue quarter, accounting for the highest close rates · Quantified that 30%+ discount deals generate negative average profit — flagged as critical pricing risk · AOV stable at $459 despite exponential order volume growth · Delivered 5 actionable recommendations for pricing governance and sales capacity planning
+Key outcomes: Identified Q4 as peak revenue quarter, accounting for the highest close rates · Quantified that 30%+ discount deals generate negative average profit, flagged as critical pricing risk · AOV stable at $459 despite exponential order volume growth · Delivered 5 actionable recommendations for pricing governance and sales capacity planning
 
 
 ### 📉 [Customer Churn Analysis – Telecom Company](https://github.com/afeniki/Customer-Churn-Analysis-for-Telecom-Company)
